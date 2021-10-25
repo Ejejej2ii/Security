@@ -585,4 +585,4 @@ client.on("guildDelete", guild => {
  channel.send(embed);
 });
 
-client.login("");
+client.login("ن");
